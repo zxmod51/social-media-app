@@ -18,7 +18,7 @@ this.state = {
   return (
       <div className="App">
 
-      <h1>Registration</h1>
+      <h1>Registration:</h1>
         <p> Benutzername </p>
         <input type="text"></input>
         <p> Password </p>
